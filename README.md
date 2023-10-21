@@ -1,6 +1,7 @@
 <h1>Philosophers</h1>
+The goal of this project is to find a solution to "the dining philosophers" problem.
 <h2>Overview</h2>
-The goal of this project is to find a solution to "the dining philosophers" problem. "Philosophers" is a dynamic simulation of philosophers sitting at a round table, alternately thinking, eating, or sleeping. This simulation is a classic problem in concurrent programming and synchronization, requiring multithreading techniques and mutexes.
+"Philosophers" is a dynamic simulation of philosophers sitting at a round table, alternately thinking, eating, or sleeping. This simulation is a classic problem in concurrent programming and synchronization, requiring multithreading techniques and mutexes.
 <h2>How To Use</h2>
 <ol>
   <li>Clone the repository:</li>
