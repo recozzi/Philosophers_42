@@ -10,7 +10,7 @@ The goal of this project is to find a solution to "the dining philosophers" prob
   <pre><code>cd Philosophers</code></pre>
   <li>Compile the project with Makefile rule:</li>
   <pre><code>make</code></pre>
-  <li>Now you are ready to use philo</li>
+  <li>Now you are ready to use philo:</li>
   <pre><code>./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]</code></pre>
  <ul>
   <li>number_of_philosophers: the number of philosophers and also the number of forks (you can test a maximum of 200 philos).</li>
